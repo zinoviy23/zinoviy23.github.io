@@ -1,0 +1,14 @@
+com.BobScript
+com.BobScript.BobCode
+com.BobScript.BobCode.Functions
+com.BobScript.BobCode.Functions.BuiltInFunctions
+com.BobScript.BobCode.Functions.BuiltinMethods
+com.BobScript.BobCode.Functions.BuiltinMethods.Array
+com.BobScript.BobCode.Functions.BuiltinMethods.File
+com.BobScript.BobCode.Functions.BuiltinMethods.Range
+com.BobScript.BobCode.Functions.BuiltinMethods.String
+com.BobScript.BobCode.Types
+com.BobScript.Parsing
+com.BobScript.Parsing.AbstraxtSyntaxTree
+com.BobScript.Parsing.AbstraxtSyntaxTree.ConstantAndVariableNodes
+com.BobScript.Support
